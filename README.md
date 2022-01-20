@@ -45,4 +45,6 @@ I have 10 years of experience solving customer needs, building software solution
 ## 🤝 Stay in touch
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/manel-fernandez-andorra/)](https://www.linkedin.com/in/manel-fernandez-andorra/)
 [![Outlook](https://img.shields.io/badge/-outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&link=mailto:manelfera.dev@outlook.com)](mailto:manelfera.dev@outlook.com)
-[![Paypal](https://img.shields.io/badge/-paypal-0079ad?style=for-the-badge&logo=paypal&link=https://paypal.me/manelfera)](https://paypal.me/manelfera)
+
+
+<a href="https://www.buymeacoffee.com/manelfera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
