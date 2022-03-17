@@ -7,6 +7,7 @@ I have 10 years of experience solving customer needs, building software solution
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=javascript)
@@ -18,6 +19,7 @@ I have 10 years of experience solving customer needs, building software solution
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-red?style=for-the-badge&logo=springboot)
 ![Liferay](https://img.shields.io/badge/-Liferay-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpVIqDnYQUchQxcGCqIijVLEIFkpboVUHk0u/oElDkuLiKLgWHPxYrDq4OOvq4CoIgh8gbm5Oii5S4v+SQosYD4778e7e4+4dIDQqTDW7JgBVs4xUPCZmc6ti4BVBDCCAYYxJzNQT6cUMPMfXPXx8vYvyLO9zf45eJW8ywCcSzzHdsIg3iGc2LZ3zPnGYlSSF+Jx43KALEj9yXXb5jXPRYYFnho1Map44TCwWO1juYFYyVOJp4oiiapQvZF1WOG9xVis11ronf2Eor62kuU5zCHEsIYEkRMiooYwKLERp1UgxkaL9mId/0PEnySWTqwxGjgVUoUJy/OB/8LtbszA16SaFYkD3i21/jACBXaBZt+3vY9tungD+Z+BKa/urDWD2k/R6W4scAX3bwMV1W5P3gMsdYOBJlwzJkfw0hUIBeD+jb8oB/bdAcM3trbWP0wcgQ10t3wAHh8BokbLXPd7d09nbv2da/f0An6NyudmNe9QAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflChgHHh8JRmPvAAAC3ElEQVRo3u2Zv09TURTHP+cWCL+6yIAyoA4wMNHa2DiQuDjxB7gZaWUybKwywMqmTgg1Tm4uMjlKIjXlx8QAC2EQGWAp2AboPQ59RGPvez6BJjx5Z2rvPfe970nvOZ97bgWgY6yUFZOYFTQDtHO1rapISW1tslLIFKVjrJQ1xnwGWomWnVhrR4yYxGwExQO0iknMGm/bRNIEzZgI7PkgazdE3CIfQEvgrEqhZpluWNRis6ryDmgTZebUyoLDZ1RVXgKI6MTpqVls8DGaU+HFhfKgK7+qfpO1mtytvk1tu+a68mvLoNmj+bT4re/Kr24DHM2n7wT46LXeQnEAcQDNDKClxWadiff0603Q/rODoMsnOb4+qNCj0JMcXx90+fitvbQqBByDrDnqaz9wy/tcBrPh8BkAbnhfDkC2Gn3sEEiymQFEG2SizBwupKdcP70x8gkkqZD/MZ9uAFlnfm1U0A/hTrpatlYfVQqZ4p8z3bnV6SDYBeaAi7AA9RfVt41LfH08tQh8C5mKGy7xQRriMhoHEAcQDmSjfpDy6jyd+bXRAEj1hpOhA36w89MQlgMK7DgGewS6z24HfKpN77+0qwqHAvuOqX5AztfQhLwdAG7/7S4H2HOM9130RiQYZKITh2/uvXZtIWvtl9+OCoHirbUPXXXeg91H4CBhzIPy3PBmA8ierTxXlVfnA5mjDQSov8h1tnHanh+kPNgBsuUSH6QhLqNxAHEAYUBmNOcPKTsU8h19frDrzK/mzhobv+7MT8P1aGhCMvSyWspdkB3Hc1JAW9MCqHdSqaILdjVrVwD8IOV1dsvALrXT9NHb+98dIHusKu+blsR+kCrPDW8K7Avs+0Hq11rZcYn3QFaMy2gcQBxAEzlwSX9wHIvoE1fCJgxTiI79tyCLc+AqBFCNsP6qUaQUVfWKlIza2qR3NRI1O1FbmzSVQqZorR1RZCki26mqyJK1dqRSyBR/ArkmRb/FO3T3AAAAAElFTkSuQmCC)
 ![Android](https://img.shields.io/badge/-Android-red?style=for-the-badge&logo=android)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-red?style=for-the-badge&logo=mysql)  
