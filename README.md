@@ -22,7 +22,8 @@ I have 10 years of experience solving customer needs, building software solution
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-red?style=for-the-badge&logo=mysql)  
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=for-the-badge&logo=mysql)
+![MongoDBL](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
