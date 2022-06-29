@@ -53,6 +53,7 @@ Repository | Description
 
 ## 🤝 Stay in touch
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/manel-fernandez-andorra/)](https://www.linkedin.com/in/manel-fernandez-andorra/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-0077B5?style=for-the-badge&logo=hackerrank&link=https://www.hackerrank.com/manelfera)](https://www.hackerrank.com/manelfera)
 [![Outlook](https://img.shields.io/badge/-outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&link=mailto:manelfera.dev@outlook.com)](mailto:manelfera.dev@outlook.com)
 [![Paypal](https://img.shields.io/badge/-paypal-0079ad?style=for-the-badge&logo=paypal&link=https://paypal.me/manelfera)](https://paypal.me/manelfera)
 
