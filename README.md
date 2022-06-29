@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Manel
 
-I'm Manel Fernandez, also known as _manelfera_ over the internet, a **Software Engineer** currently working at [Andorra Telecom](https://www.andorratelecom.com/).  
-I have 10 years of experience solving customer needs, building software solutions that help improve their business in all kinds of fields.
+I'm Manel Fernandez, also known as _manelfera_ over the internet, a **DevOps Software Engineer** currently working at [Andorra Telecom](https://www.andorratelecom.com/).  
+I have 11 years of experience solving customer needs, building software solutions that help improve their business in all kinds of fields.
 
 ## 🛠️ Technologies
 
@@ -30,6 +30,7 @@ I have 10 years of experience solving customer needs, building software solution
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
 ![TFS](https://img.shields.io/badge/-TFS-0072C6?style=for-the-badge&logo=tfs)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0072C6?style=for-the-badge&logo=tfs)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
@@ -43,11 +44,16 @@ I have 10 years of experience solving customer needs, building software solution
 ![Sim Racing](https://img.shields.io/badge/-Sim%20Racing-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAEB0lEQVRYhcXXXYiWVRAH8J/5kV+7mlamEWhGdVNrZbt9mEK0WRhFVkZJZUF2p5CYEYEVZGpGNxJohpGmgjcWUlRGVkYFGgVFYZTuqq0ZmkpXRm0XM+++zz77rvpq4B/O8j5z5syZc87Mf2Y5w+hTh24/TEUrrsV4DE35b9iLr/A+tuHv/8vJBjyH37EVCzAZF6BvjtG4CfPxOfZhHoac7ub3itO9gUtSNhCT8ASeSYdmp+zs1LkMq3PttFPZuC9ew4+YmLIWrMdRfIONWIbFeB1f4wjWojnXNOMnLK1n837YgPfE9Z+X3214FhcdZ+05mCNOvh7nohFz63FguQik/hiFdizBoDpsDEs77bgqZXPTznFxv7iyoSKwGgoGTgUP4SAmpFM7RSbVxFARvRPF1bXnwtPFA2lrpIijfeJgPbBQvBusU2fgnAAr8Xb+3iBStBv6pWcHsBl7MLiGobmCDzpL40HMxH4RhGUMT/ubc482EWNdmIbtgjjmpFJjycgU/CwYsDeMT53JJfkw/JG2h2AHbi0qvCLYDs7CoRqn7MSiwpqLBQHNxriCfFEvaw+lbXgBLyoIrsMn+btJ8Hqf0ngex1LnUXyBa3J8iVk5dyx1y+v34YrU2Sqou8uBsalQcWCHiIE/Vd+4ePKXcKPg/eW4QTBi5SYWlk4+OG025fxeSWgVB0aKACKYrwPX4/v0fl3BgVvwTm76VMp+xbs5p3QDP6StDpyf8x0iLroc6NQT40SBqZxkYQ2d3lC8gUlpq1z6BxUdOCTKKxGtY7BKzxiALbhTvHuFWsenbEt+l2NglWDWAzk/WtSLLmwTaUZQb60o7sSa1Jklnmxljv14JOfWCKKZWWN9JQZuxsdFB8ppeFCQRxGN2C06IuJaH88xNmWt2KUn1Q5Pm8U0fLWocLvuRNQhakMZrelELS5vyM1be5nr0J2IphQVKn1dhYrb1aZi4spX1JCv6EUuN92jSsX7RdMTf/BvKv2F6aIKNuOjGsY+FU82SlTOSbgDd+FuVbIqYkluOkMQ1ybBId1QKcfNohzvwj29nGiBeLLFObarckIZM/ALRohy3OY4zc10UUyGiWzoEI1pGQ+rZgS8JZqPMu5LG00iDnb2Yq8blqn2cBPS45dLXk/Fh4XvD3SvboPFM+0W/D9APGexmJ0Qc0TqjRDNxB48Kai6Cd8VdL/FlYJq5wmuXyua1MZ0dqNqGp4Ulor+sCW/r8abOCza9aOqMXAkZYdTp9JHtqSNRfVuXsFtIj1X4/KUDUjDj4nAm5+/W3IOLk1H2pzEm58IjeJa2wRlzxcdzxjRVg0U3D5ZZMdnIuWedhKtfD3/nPYXHD4lN7tQZEuDiI/dIi42paP/1GH7zOE/rj8AKANSSMcAAAAASUVORK5CYII=)
 ![Videogames](https://img.shields.io/badge/-Videogames-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABmJLR0QA/wD/AP+gvaeTAAAFtklEQVRoge3aW4hd1RkH8N/M5K4mmkRpxkhV1CTaWq+pV0pJobZgo5bSVEV8S0mJFNqX9qkWW0TxQQSroA9iKWotvahFsKFpqYqCGtpEqzUxpSaG5qJmMtEkmvHhW5uzZ3L2OfvsffZoYP7wMcnaa/33/zvr9q1vbaYwhSlM4SjCwCS+ayauwKkYTmXb8F/8AwcmUUuj+DIexwjGCmwEv8XypsU02cPDuBcr0//H8BI24J1Utgjn4cKkZQx/xA+wvUFtfcdyMVzHsBc/w+c61B/Gz7VGwTaT0Nv9win4QAh/Bif20PYk/CW13Y/FfVfXAI7Hs7gD0yq0n4Y7E8e8PurC5K7S0/FdXI0zUtl/8AQew6FJ1NI4LhDOFa3Sr+P8T01dnzGMfcKxjVgtfoAL8H1sSs/2iVX7qMc8PI+7xbCeiBm4B89hbtNimpjDJ+McLMM60au94Fx8Fa+J3t/WV3U1MQdfw234G/YYPzf340c4IdfmS6nuehF0ZJiPH6c2eY49qf5t6V1zGvOmAAtwSxJxQPFClLe3MZTav5QrfzmVDaU6ZbgO4O9Jw4LGvMQs3CoipzLCJloWab2ZK3szlS2qyJlFcTP77eyZWqtpVftO4voW3sVuXJPKvleTe6PW3l4b5yVxdQSN4d/aR07z8EYf+HeJBa8WFmNHH8Rk9i98XWxPM/AN9UdO3t7ROmv3jAH8tY9i8vYxDjfEvU7F7XZVQ4Imw7L1oidsKEH8rlbY2LQ9LIbr5SI50KnuK706u7yEgINYKBa1pp09bPyC99MSbdomEAYLHL6+xI8yKlbGrSXq1sWA8YvRySXalPEBEfV0GzLZcCYO/JMxpN/AGtwlzs7d6m/Xiu46YkUHklFsTpbNk7m5ss3Kh5tl5uyZIjh5v83zp3F20lsUlq4o4/ADBY33iTnbDcv64OxBzM5x3tmmzqm557cU8DwwUdzEOTwT1xU4MgNfxOnJshcO5spOF6ehuhgy/mw8v02d+V2eE750jLNXKt8LTc/hF3EDfoGP2jx/HTfjJ2KqFfFkefG2eOQz5HC7OXuxCIje66HdI0XOHtvll/q0HT4pp/XWHtqNJt8wfg6v1Fs2Ya6Ieq7qoU0dzCr4dzfMUTCsn9SfntiH/+PDGhwHRGonP+JeSMJ/6Mg0UDd7cqKzC8RWUFXgftyOpTnO6bhSJNnL8jya2mTZzQGxzd2hdX1TxQ6akA5aXYNsM5bkuOaIMDCfkr1W514Z1cp+ZD/WsPF78TJsqaFzdd7h9RVJdou9F76AP2uFfXtxn1bG8jrtz8CHtebYfNyvdYt4CE+JtC+RxpmYGS1r6zNnF4sDeRWSNYljueIL71dzTj/e5vljOWdfK+AYEVsSrK2o9ePka2WCETHkBjsIzexXSexX2jy7Mj27vwvHpvSuY1Q/g6+F31dsvC4JvaRE3ffFNeg0cZzMyt9KZdOVS/9mZ9yqqaffDeIi1bAj/T2tRN254mL8IxGPX5Ts3FS2EMeV4MnWi6qfQ1w4TURKVZAJ3FWi7iGtyGxE3D7k8Z5wvNsF+s70t6rm4+ktnMzbdjGnZgunO9V9ooSYp7pw7BQR1pDqqeO91MsLfzOJvanLS5aVcPgcnT9tujHVu7qG3n/Cr2sQbNKKv29yZE9vFJ8klcXFjuyAnTlnTxDHwqp6HyICgqoEYyJOzZyeLa40VyXxRUnCThjUOgau0DooHCNuLOtovYbICGytSfSquEJpClfpvtd3sy1y2Y8bapJldlkDzl7eJ22rJhI/VJNwq3JJvl6xUP0R+GA74ln4U0XCbTirz47msUS5XHk7+4MOibwhca7t5Wy8TufvKPuFRXoLKQ/il0om45fiN4qDksPiG+dr++VNSQzg2+ITp6Lr1tGkfWkRQScci0tF4DA7vWSLSKH+r7b8evi82L5OE1vZB+Irg+fEaWoKU5jCFI5+fAIIDHuroGp1kgAAAABJRU5ErkJggg==)
 
-[comment]: <> (Soon there is going to appear the repos section)
+
+## 💡 Highlited repositories and gists
+Repository | Description
+------ | ------
+[Flutter bullet list](https://gist.github.com/manelfera/a9bc181f090689f603244a76f83f0f39)   | Flutter circle container for lists (vertical & horizontal)
+
 
 ## 🤝 Stay in touch
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/manel-fernandez-andorra/)](https://www.linkedin.com/in/manel-fernandez-andorra/)
 [![Outlook](https://img.shields.io/badge/-outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&link=mailto:manelfera.dev@outlook.com)](mailto:manelfera.dev@outlook.com)
-
+[![Paypal](https://img.shields.io/badge/-paypal-0079ad?style=for-the-badge&logo=paypal&link=https://paypal.me/manelfera)](https://paypal.me/manelfera)
 
 <a href="https://www.buymeacoffee.com/manelfera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
