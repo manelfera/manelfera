@@ -53,6 +53,7 @@ Repository | Description
 ------ | ------
 [Flutter bullet list](https://gist.github.com/manelfera/a9bc181f090689f603244a76f83f0f39)   | Flutter circle container for lists (vertical & horizontal)
 [Flutter dialogs](https://gist.github.com/manelfera/30b3c6105c99043b1e25e71337e3252c) | Flutter dialogs for all your needs
+[2048 Android Game](https://play.google.com/store/apps/details?id=com.manelfera.game2048) | My first game made in flutter
 
 
 ## 🤝 Stay in touch
