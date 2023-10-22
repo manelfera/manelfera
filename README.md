@@ -51,9 +51,10 @@ I have 11 years of experience solving customer needs, building software solution
 ## 💡 Highlited repositories and gists
 Repository | Description
 ------ | ------
+[2048 Android Game](https://play.google.com/store/apps/details?id=com.manelfera.game2048) | My first game made in flutter
 [Flutter bullet list](https://gist.github.com/manelfera/a9bc181f090689f603244a76f83f0f39)   | Flutter circle container for lists (vertical & horizontal)
 [Flutter dialogs](https://gist.github.com/manelfera/30b3c6105c99043b1e25e71337e3252c) | Flutter dialogs for all your needs
-[2048 Android Game](https://play.google.com/store/apps/details?id=com.manelfera.game2048) | My first game made in flutter
+[Flutter animations](https://gist.github.com/manelfera/e77d0cbcecfe2aa6460aace16aa21576) | Simple flutter animations
 
 
 ## 🤝 Stay in touch
